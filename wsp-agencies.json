@@ -1,0 +1,1179 @@
+[
+  {
+    "targets": [
+      "https://cashforlocalclubs.com.au"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Pilgrim Communications"
+    }
+  },
+  {
+    "targets": [
+      "https://Pepsi.ca"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "ACTIVATR"
+    }
+  },
+  {
+    "targets": [
+      "https://apiastosdiagwnismos.gr",
+      "https://layspepsi-contest.gr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "allbright advertising"
+    }
+  },
+  {
+    "targets": [
+      "https://api.lipton-action-ou-verithe.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Arcade XR"
+    }
+  },
+  {
+    "targets": [
+      "https://en.quakeroats.gr",
+      "https://quakeroats.gr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "BBDO Athens"
+    }
+  },
+  {
+    "targets": [
+      "https://laureat.joy-pepsico.eu",
+      "https://motywator.pepsi.pl",
+      "https://popworks-snacks.com",
+      "https://win.joy-pepsico.eu",
+      "https://cheetos.fr",
+      "https://smakujlato.pepsi.pl",
+      "https://cheetos.pl",
+      "https://chrupstar.pl"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "AVANTI"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsi.co.za"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Concept cc"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicoempowerededu.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Colorido Studios"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicohealthandnutritionsciences.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Colorido Studios"
+    }
+  },
+  {
+    "targets": [
+      "https://PepsiCo-PersonalizationAtScale.com",
+      "https://TastyRewards.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "BAM"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicoproductfacts.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Click Here Labs"
+    }
+  },
+  {
+    "targets": [
+      "https://quakeroats.ph"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "BBDO Guerrero"
+    }
+  },
+  {
+    "targets": [
+      "https://gatorade.com.au"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Chisel"
+    }
+  },
+  {
+    "targets": [
+      "https://7up.es",
+      "https://7up.ie",
+      "https://7up.nl",
+      "https://7up.pt",
+      "https://7up.se",
+      "https://australia.pepsifc25.com",
+      "https://cheetos.be",
+      "https://conquista-bares.com",
+      "https://crisps-snacks-recommendations-tool.co.uk",
+      "https://deutschlandwechselt.de",
+      "https://doritos.be",
+      "https://doritos.co.uk",
+      "https://doritos.com.tr",
+      "https://doritos.de",
+      "https://doritos.dk",
+      "https://doritos.es",
+      "https://doritos.fr",
+      "https://doritos.it",
+      "https://doritos.nl",
+      "https://doritos.pt",
+      "https://doritos.se",
+      "https://doritosne.com",
+      "https://doritospolska.pl",
+      "https://duyvis.nl",
+      "https://europe.pepsifc25.com",
+      "https://flaminhot.es",
+      "https://flaminhot.pt",
+      "https://flaminhotsnacks.be",
+      "https://flaminhotsnacks.nl",
+      "https://flaminhotsnacks-nordics.com",
+      "https://gatorade.at",
+      "https://gatorade.ch",
+      "https://gewinnen-mit-pepsico.de",
+      "https://gewinnen-mit-rockstar.de",
+      "https://info.pepsico.eu",
+      "https://joy-pepsico.eu",
+      "https://Joy-pepsico.eu/en-gb",
+      "https://Joy-pepsico.eu/es-es",
+      "https://joy-pepsico.eu/nl-nl/",
+      "https://joy-pepsico.eu/pl-pl/",
+      "https://joy-pepsico.eu/pt-pt/",
+      "https://labs.pepsico.com",
+      "https://lays.be",
+      "https://lays.de",
+      "https://lays.es",
+      "https://lays.fr",
+      "https://lays.gr",
+      "https://lays.hu",
+      "https://lays.it",
+      "https://lays.nl",
+      "https://lays.pl",
+      "https://lays.pt",
+      "https://lays.sk",
+      "https://Laysgourmet.com",
+      "https://lays-images.com",
+      "https://laysky.cz",
+      "https://laysne.com",
+      "https://lays-nordics.com",
+      "https://lifewtr.com",
+      "https://liptonicedtea.com",
+      "https://liptoniceteaproductinformation.com",
+      "https://lipton-images.com",
+      "https://nrmcms.pepsico.com",
+      "https://onlyonecanwin.com",
+      "https://peppositive.com",
+      "https://pepsi.at",
+      "https://pepsi.be",
+      "https://pepsi.bg",
+      "https://pepsi.ch",
+      "https://pepsi.co.uk",
+      "https://pepsi.com.tr",
+      "https://pepsi.de",
+      "https://pepsi.es",
+      "https://pepsi.fr",
+      "https://pepsi.gr",
+      "https://pepsi.hr",
+      "https://pepsi.it",
+      "https://pepsi.nl",
+      "https://pepsi.pl",
+      "https://pepsi.pt",
+      "https://pepsi.si",
+      "https://pepsico-foodservice.fr",
+      "https://pepsicoprivacypolicy.com",
+      "https://Pepsico-pro.fr",
+      "https://pepsifc25.com",
+      "https://pepsi-gastronomie.de",
+      "https://pepsi-images.com",
+      "https://pepsimax.dk",
+      "https://pepsimax.fi",
+      "https://pepsimax.ie",
+      "https://pepsimax.is",
+      "https://pepsimax.no",
+      "https://pepsimax.se",
+      "https://pepsi-max-tastechallenge-app.com",
+      "https://piperscrisps.com",
+      "https://quaker.co.uk",
+      "https://quaker.fr",
+      "https://quaker.nl",
+      "https://rockstarenergy.co.uk",
+      "https://rockstar-images.com",
+      "https://snackajacks.co.uk",
+      "https://thevisiblemovement.es",
+      "https://werdepepsico.de",
+      "https://joy-pepsico.eu/fr-fr/",
+      "https://joy-pepsico.eu/el-gr/",
+      "https://gatorade.se",
+      "https://gatorade.no",
+      "https://nlng.lays.com",
+      "https://juegaconlays.sinlaysnohaypartido.com",
+      "https://juegaconmargarita.elequipoperfecto.com",
+      "https://nlng.simba.co.za",
+      "https://nolaysnogame.com",
+      "https://productivityframework.mypepsico.com",
+      "https://promotion.lays.ua",
+      "https://champions.joyapp.mx",
+      "https://doritos-fanzonemuenchen.de",
+      "https://joy-pepsico.eu/be"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Davies Meyer GmbH"
+    }
+  },
+  {
+    "targets": [
+      "https://alvalle.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "fuego"
+    }
+  },
+  {
+    "targets": [
+      "https://arsalestool.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "French&Western"
+    }
+  },
+  {
+    "targets": [
+      "https://cupsfortomorrow.com",
+      "https://musclemlk.ca",
+      "https://partnersfortomorrow.com",
+      "https://pepsitrashtalk.com",
+      "https://sobe.com",
+      "https://stubbornsoda.com",
+      "https://mountaindew.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "EI Digital"
+    }
+  },
+  {
+    "targets": [
+      "https://gatorade5v5.it"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Enjore"
+    }
+  },
+  {
+    "targets": [
+      "https://getmatchready.co.uk"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Elvis"
+    }
+  },
+  {
+    "targets": [
+      "https://Pepsifootball.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Face to Face"
+    }
+  },
+  {
+    "targets": [
+      "https://quaker.co.id"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "froyo"
+    }
+  },
+  {
+    "targets": [
+      "https://drop.joy-pepsico.eu"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "EWESA"
+    }
+  },
+  {
+    "targets": [
+      "https://7up.co.uk",
+      "https://joypepsico.eu",
+      "https://aquafina.com",
+      "https://bubly.com",
+      "https://dolelemonade.com",
+      "https://Mugrootbeer.com",
+      "https://yachak.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Make Marks"
+    }
+  },
+  {
+    "targets": [
+      "https://baresnacks.com",
+      "https://capncrunch.com",
+      "https://cheetos.com",
+      "https://crackerjill.com",
+      "https://digitalrecipes.pepsico.com",
+      "https://doritos.com",
+      "https://fl-vr.com",
+      "https://foundedbyher.org",
+      "https://fritolay.com",
+      "https://fritolayemployment.com",
+      "https://fritolayminis.com",
+      "https://fritolayvarietypacks.com",
+      "https://fritos.com",
+      "https://gamesacookies.com",
+      "https://jacklinksfritolay.com",
+      "https://lays.com",
+      "https://missvickies.com",
+      "https://moresmileswitheverybite.com",
+      "https://munchiessnacks.com",
+      "https://nutharvest.com",
+      "https://popcorners.com",
+      "https://quakerjobs.com",
+      "https://quakeroats.com",
+      "https://roldgold.com",
+      "https://ruffles.com",
+      "https://santitas.com",
+      "https://simplyfritolay.com",
+      "https://smartfood.com",
+      "https://stacyssnacks.com",
+      "https://sunchips.com",
+      "https://tostitos.com",
+      "https://bakenets.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Majestic"
+    }
+  },
+  {
+    "targets": [
+      "https://chipsy.rs",
+      "https://clipsyprotivhejta.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Go Digital"
+    }
+  },
+  {
+    "targets": [
+      "https://crackerjack.com",
+      "https://flaminhot.com",
+      "https://Grandmascookies.com",
+      "https://natuchipsusa.com",
+      "https://pepsicofoodsfsv.com",
+      "https://ricearoni.com",
+      "https://spitzusa.com",
+      "https://sabra.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Majestic Media Ltd"
+    }
+  },
+  {
+    "targets": [
+      "https://joybox.joyapp.info",
+      "https://joybox.joyapp.mx"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Lead to Action"
+    }
+  },
+  {
+    "targets": [
+      "https://nowalkersnogamewinners.co.uk",
+      "https://popworksbridgetjoneswinners.co.uk",
+      "https://walkerspaydaywinners.co.uk",
+      "https://walkersfreelunchwinners.co.uk",
+      "https://walkersuclwinners.co.uk"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Grand Central Creative"
+    }
+  },
+  {
+    "targets": [
+      "https://quaker.com.hk"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Mybee"
+    }
+  },
+  {
+    "targets": [
+      "https://quaker.sg",
+      "https://fritolay-sgcampaigns.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Level Up Digital LLP"
+    }
+  },
+  {
+    "targets": [
+      "https://sensationssnacks.co.uk",
+      "https://sunbites.co.uk"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "jaywing"
+    }
+  },
+  {
+    "targets": [
+      "https://simba.co.za"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "hitchdigital"
+    }
+  },
+  {
+    "targets": [
+      "https://tostitos.co.nz"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Magico Marketing Ltd"
+    }
+  },
+  {
+    "targets": [
+      "https://contact.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Kahoots"
+    }
+  },
+  {
+    "targets": [
+      "https://mcoecatalog.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Gimbal Cube"
+    }
+  },
+  {
+    "targets": [
+      "https://Pepsisummer.com",
+      "https://api.Pepsisummer.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Immergic"
+    }
+  },
+  {
+    "targets": [
+      "https://api.pepsi.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Think Motive"
+    }
+  },
+  {
+    "targets": [
+      "https://ar.snacks-pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "RGA"
+    }
+  },
+  {
+    "targets": [
+      "https://badges.pepsi.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Pure Concepts"
+    }
+  },
+  {
+    "targets": [
+      "https://benenuts.fr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://ceresfruitjuice.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "techsys"
+    }
+  },
+  {
+    "targets": [
+      "https://cheetos.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://cl.joypepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "RGA"
+    }
+  },
+  {
+    "targets": [
+      "https://craftedforhome.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "traceylocke"
+    }
+  },
+  {
+    "targets": [
+      "https://creative-solutions.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "PepsiCo Internal"
+    }
+  },
+  {
+    "targets": [
+      "https://design.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Zero Agency"
+    }
+  },
+  {
+    "targets": [
+      "https://doritos.com.au"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "TEEC"
+    }
+  },
+  {
+    "targets": [
+      "https://drinkbrisk.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Track Marketing"
+    }
+  },
+  {
+    "targets": [
+      "https://externalinnovation.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "R&D External Innovation"
+    }
+  },
+  {
+    "targets": [
+      "https://fritolay.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://fruko.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://Gatorade.it"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://gerceksen.doritos.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://goldenbird.co.nz"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "RAYDAR Limited"
+    }
+  },
+  {
+    "targets": [
+      "https://joypepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "RGA"
+    }
+  },
+  {
+    "targets": [
+      "https://kazandirio.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://lays.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://LegionOfCreators.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Pomp Productions"
+    }
+  },
+  {
+    "targets": [
+      "https://liptonpromo.ro",
+      "https://lumeastar.ro",
+      "https://mirinda.ro",
+      "https://mountaindew.co.uk",
+      "https://pepsico.ee",
+      "https://pepsico.lt",
+      "https://pepsico.lv",
+      "https://pepsico.ro",
+      "https://pepsicomanagergalaxy.com",
+      "https://pepsiconcorsi.it",
+      "https://lays.ro",
+      "https://doritos.ro"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Voxline Communication"
+    }
+  },
+  {
+    "targets": [
+      "https://liquifruit.co.za",
+      "https://safaridriedfruit.co.za",
+      "https://sasko.co.za",
+      "https://spekkorice.co.za",
+      "https://whitestar.africa"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Techsys Digital"
+    }
+  },
+  {
+    "targets": [
+      "https://looza.be"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://meanwhileinthepepsi-verse.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Special Group"
+    }
+  },
+  {
+    "targets": [
+      "https://meconsumerfeedback.com",
+      "https://pacedocs.pepsico.com",
+      "https://pepsicodigital.com",
+      "https://pepsicogold360.com",
+      "https://pepsicomarketinghub.com",
+      "https://pepsicoschoolsource.com",
+      "https://pepsicotaiwan.com",
+      "https://pepsimax.com.au",
+      "https://pepsnacks.com",
+      "https://Pepviz.com",
+      "https://popcorners.com.au",
+      "https://quaker.in.th",
+      "https://redrockdeli.com.au",
+      "https://Rockstarenergydrink.com.au",
+      "https://smartcan.pepsico.com",
+      "https://smiths.com.au",
+      "https://sunbites.com.au",
+      "https://sustainabilityaction.pepsico.com",
+      "https://WebSiteControlCenter.pepsico.com",
+      "https://wspportal.pepsico.com",
+      "https://pepsimax.com.au",
+      "https://joyapp.mx",
+      "https://bakeitbetter.co.za",
+      "https://bluebird.co.nz",
+      "https://funyuns.com",
+      "https://fritolay-epay.com",
+      "https://fritolayag.mypepsico.com",
+      "https://dpa.pepsico.com",
+      "https://dothedew.com.au",
+      "https://climatesimulator.pepsico.com",
+      "https://cms.pepsi.com",
+      "https://copperkettle.co.nz",
+      "https://chefseries.redrockdeli.com.au",
+      "https://bublywater.com.au",
+      "https://br.joypepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "WSP"
+    }
+  },
+  {
+    "targets": [
+      "https://media.pepsico.com",
+      "https://wwwsr.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "PBNA IT"
+    }
+  },
+  {
+    "targets": [
+      "https://mountaindew.finebula"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "undefined"
+    }
+  },
+  {
+    "targets": [
+      "https://mountaindew.nlteec"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "teec"
+    }
+  },
+  {
+    "targets": [
+      "https://mountaindew.se"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "VMLY&R"
+    }
+  },
+  {
+    "targets": [
+      "https://offtheeatenpathsnacks.co.uk"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://pepbridge.pepsicodigital.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "VMLY&R"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsi.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Think Motive"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsico.ca",
+      "https://pepsico.com",
+      "https://pepsico.com.au",
+      "https://pepsico.com.co",
+      "https://pepsicoindia.co.in",
+      "https://pepsico.co.it",
+      "https://pepsico.com.mx",
+      "https://northerneurope.pepsico.com",
+      "https://pepsico.com.pk",
+      "https://pepsicopoland.com",
+      "https://pepsico.co.th",
+      "https://pepsicothai.co.th",
+      "https://pepsico.ua",
+      "https://pepsico.co.uk",
+      "https://pepsico.rs",
+      "https://pepsico.com.br",
+      "https://pepsico.fr",
+      "https://pepsico.pt",
+      "https://pepsico.ru",
+      "https://pepsico.sa",
+      "https://sa.pepsico.africa",
+      "https://pepsico.africa",
+      "https://pepsico.es",
+      "https://pepsico.com.tr",
+      "https://layssverige.se",
+      "https://joyspepsico.com",
+      "https://Investor.pepsico.com",
+      "https://global2.pepsico.com",
+      "https://Events.pepsico.com",
+      "https://storybook.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "PepsiCo"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicoicecek.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicomarketingawards.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Triniti Marketing Ltd"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicofranchiseawards.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Triniti Marketing"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsicoproductchecker.be",
+      "https://pepsicoproductchecker.nl"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsidigin.com",
+      "https://starrylemonlime.com",
+      "https://Refreshthenrecycle.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Studio Mega"
+    }
+  },
+  {
+    "targets": [
+      "https://pepsirecycled.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Viral Edge"
+    }
+  },
+  {
+    "targets": [
+      "https://py.joypepsico.com",
+      "https://uy.joypepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "RGA"
+    }
+  },
+  {
+    "targets": [
+      "https://quaker.com.my"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Prodigious"
+    }
+  },
+  {
+    "targets": [
+      "https://quaker.fr",
+      "https://recettes.quaker.fr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "VMLY&R"
+    }
+  },
+  {
+    "targets": [
+      "https://quakerarabia.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "WonderEight"
+    }
+  },
+  {
+    "targets": [
+      "https://ruffles.com.tr",
+      "https://snackajacks.nl",
+      "https://standardysprzetpepsico.pl",
+      "https://yedigun.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Roket Works"
+    }
+  },
+  {
+    "targets": [
+      "https://secure-admin-consumer.pepsico.com",
+      "https://secure-admin-partner.pepsico.com",
+      "https://secure-api-consumer.pepsico.com",
+      "https://secure-api-partner.pepsico.com",
+      "https://secure-consumer.pepsico.com",
+      "https://secure-testapp-consumer.pepsico.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Security IAM"
+    }
+  },
+  {
+    "targets": [
+      "https://smiths-chips.com.au"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Resolution digital"
+    }
+  },
+  {
+    "targets": [
+      "https://summerpromo.pepsimax.com.au"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Unbnd Group"
+    }
+  },
+  {
+    "targets": [
+      "https://tropicana.com.tr"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "pure"
+    }
+  },
+  {
+    "targets": [
+      "https://whitestar.africa"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Techsys Digital"
+    }
+  },
+  {
+    "targets": [
+      "https://youthpartnership.gatorade.com",
+      "https://performancepartner.gatorade.com",
+      "https://PlayeroftheYear.Gatorade.com",
+      "https://EndurancePartnership.Gatorade.com",
+      "https://gssiweb.org/GPAPI",
+      "https://gssiweb.org/toolbox",
+      "https://gssiweb.com/sweattest",
+      "https://pureleaf.com",
+      "https://musclemilk.com",
+      "https://gssiweb.org/en"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "NuOrbit"
+    }
+  },
+  {
+    "targets": [
+      "https://life.pepsicojobs.com",
+      "https://stories.pepsicojobs.com"
+    ],
+    "labels": {
+      "job": "blackbox",
+      "env": "prod",
+      "owner": "Pace Communications"
+    }
+  }
+]
