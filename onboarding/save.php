@@ -1,5 +1,10 @@
 <?php
 
+if (!isset($_POST['agency']) || !isset($_POST['url'])) {
+    header("Location: index.php");
+    exit;
+}
+
 $agency = trim($_POST['agency']);
 $url = trim($_POST['url']);
 
